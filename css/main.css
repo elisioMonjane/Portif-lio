@@ -660,7 +660,7 @@ input[type="button"] {
 	line-height: 5.4rem;
 	padding: 0 3rem;
 	margin: 0 .3rem 1.2rem 0;
-	background: #d8d8d8;
+	background: #405952;
 	color: #313131;
 	text-decoration: none;
 	cursor: pointer;
@@ -2107,6 +2107,21 @@ header .logo a {
 	padding-bottom: 12rem;
 	color: white;
 	position: relative;
+}
+.service-content{
+	border: .4px solid #ffffff65;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	
+
+}
+.btnvermais{
+	background-color: #405952;
+	color:#FFF;
+	font-weight:lighter;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+
 }
 #services .overlay {
 	position: absolute;
